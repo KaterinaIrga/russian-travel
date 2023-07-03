@@ -1,0 +1,8 @@
+
+.place__paragraph_position_first {
+  grid-area: paragraph1;
+  margin: 10vw auto 8vw;
+}
+.place__paragraph_position_second {
+  grid-area: paragraph2;
+}

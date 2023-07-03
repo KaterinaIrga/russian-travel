@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: start;
+  width: 92.5%;
+  margin: 0 auto;
+}
+@media screen and (max-width: 320px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 58%;
+    margin: 0 auto 0 0;
+  }
+}
